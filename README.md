@@ -55,4 +55,4 @@ My task as a data analyst was to:
 ## 🔗 Links
 *   **[Live Dashboard](https://www.novypro.com/project/strategic-insights-credit-card-analytics-dashboard)**
 *  **[Notion Project Tracker](https://www.notion.so/Strategic-Insights-Dashboard-Banking-2413e2a3100580369b86fbc24cd9de11?source=copy_link)**
-*  **[Insights and Recommendations Logs](https://github.com/BEkushal/Credit-Card-Rollout-Strategic-Insights/blob/main/docs/Credit_Card_Strategic_Insights_Recommendations.xlsx)**
+*  **[Insights and Recommendations Logs](docs)**
