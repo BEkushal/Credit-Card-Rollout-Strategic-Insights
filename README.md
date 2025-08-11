@@ -3,6 +3,8 @@
 ## ⭐️ Situation
 Aetherios Bank, a legacy institution, aimed to launch a new line of credit cards and needed deep analytics to drive its go-to-market strategy. Their goal: identify key customer segments, spending patterns, and product features to broaden reach and maximize uptake in a competitive financial market. This task is given to Nexioum Data Strategies.
 
+<img width="958" height="228" alt="Flow" src="https://github.com/user-attachments/assets/d105f339-d639-4cb7-839f-a3d68cb4828e" />
+
 ---
 
 ## 🎯 Task
