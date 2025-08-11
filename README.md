@@ -53,4 +53,5 @@ My task as a data analyst was to:
 ---
 
 ## 🔗 Links
+*   **[Live Dashboard](https://www.novypro.com/project/strategic-insights-credit-card-analytics-dashboard)**
 *  **[Notion Project Tracker](https://www.notion.so/Strategic-Insights-Dashboard-Banking-2413e2a3100580369b86fbc24cd9de11?source=copy_link)**
